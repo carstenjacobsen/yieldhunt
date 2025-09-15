@@ -4,6 +4,10 @@ Yieldhunt is a sample application demonstrating how to build a dapp using DeFind
 
 (COMING SOON!)
 
+**Resources**:
+- [DeFindex Documentation](https://docs.defindex.io/)
+- [DeFindex GitHub](https://github.com/paltalabs/defindex)
+
 ## Using the DeFindex SDK
 
 ### SDK Configuration
